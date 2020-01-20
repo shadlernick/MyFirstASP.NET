@@ -9,7 +9,7 @@ namespace MyFirstASP.NET.Data.Interfaces
     public interface IAllCars
     {
         IEnumerable<Car> Cars { get; }
-        IEnumerable<Car> FavCars { get; set; }
+        IEnumerable<Car> FavCars { get; }
         Car getObjectCar(int carId);
     }
 }
