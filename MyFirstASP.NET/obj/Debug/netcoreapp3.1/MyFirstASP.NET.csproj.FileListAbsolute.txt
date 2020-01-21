@@ -124,7 +124,6 @@ D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netc
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstASP.NET.StaticWebAssets.Manifest.cache
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstASP.NET.StaticWebAssets.xml
-D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.MvcApplicationPartsAssemblyInfo.cache
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.RazorAssemblyInfo.cache
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.RazorAssemblyInfo.cs
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.AssemblyInfoInputs.cache
@@ -144,3 +143,7 @@ D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netc
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.pdb
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.csprojAssemblyReference.cache
+D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.MvcApplicationPartsAssemblyInfo.cache
+D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
