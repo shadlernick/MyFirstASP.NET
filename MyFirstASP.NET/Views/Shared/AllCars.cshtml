@@ -1,0 +1,9 @@
+﻿@model Car
+
+    <div class="col-lg-4">
+        <img class="img-thumbnail" src="@Model.Img" alt="@Model.Name" />
+        <h2>Модель: @Model.Name</h2>
+        <h3>@Model.ShortDesc</h3>
+        <p>Цена: @Model.Price.ToString("c")</p>
+        <p><a class="btn btn warning" href="#">Подробно</a></p>
+    </div>
