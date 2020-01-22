@@ -61,6 +61,7 @@ D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netc
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
@@ -121,6 +122,7 @@ D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netc
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstASP.NET.StaticWebAssets.Manifest.cache
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstASP.NET.StaticWebAssets.xml
@@ -132,8 +134,10 @@ D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netc
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.TagHelpers.output.cache
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.RazorCoreGenerate.cache
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Cars\List.cshtml.g.cs
+D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllCars.cshtml.g.cs
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.RazorTargetAssemblyInfo.cache
@@ -142,8 +146,6 @@ D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netc
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.csproj.CopyComplete
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.pdb
+D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.csprojAssemblyReference.cache
-D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
-D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.MvcApplicationPartsAssemblyInfo.cache
-D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
