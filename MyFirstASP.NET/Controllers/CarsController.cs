@@ -47,5 +47,31 @@ namespace MyFirstASP.NET.Controllers
 
             return View(carObj);
         }
+
+        [Route("Cars/About/{name}")]
+        public ViewResult About(string name)
+        {
+
+            var carObj = new CarViewModel
+            {
+                Car = _allCars.Cars.Where(i => i.Name == name).FirstOrDefault()
+            };
+
+            return View(carObj);
+        }
+
+        [Route("Cars/Favourite")]
+        public ViewResult Favourite()
+        {
+            IEnumerable<Car> cars = null;
+
+            cars = _allCars.FavCars;
+
+            var carObj = new CarsListViewModel { GetAllCars = cars };
+
+            ViewBag.Title = "Страница с автомобилями";
+
+            return View(carObj);
+        }
     }
 }

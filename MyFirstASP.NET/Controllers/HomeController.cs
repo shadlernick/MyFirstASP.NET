@@ -21,7 +21,7 @@ namespace MyFirstASP.NET.Controllers
         {
             var homeCars = new HomeViewModel
             {
-                FavCars = _carRep.FavCars
+                Cars = _carRep.Cars
             };
             return View(homeCars);
         }

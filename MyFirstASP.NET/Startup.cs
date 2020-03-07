@@ -58,7 +58,8 @@ namespace MyFirstASP.NET
             app.UseMvc(routes =>
             {
                 routes.MapRoute(name: "default", template: "{controller=Home}/{action=Index}");
-                routes.MapRoute(name: "categoryFilter", template: "Car/{action}/{category?}", defaults: new { Controller = "Car", action = "List" });
+                routes.MapRoute(name: "categoryFilter", template: "Car/List/{category?}", defaults: new { Controller = "Car", action = "List" });
+                routes.MapRoute(name: "moreInfo", template: "Car/About/{category?}", defaults: new { Controller = "Car", action = "About" });
             });
 
             if (env.IsProduction())

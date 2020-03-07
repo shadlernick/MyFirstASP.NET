@@ -1,0 +1,15 @@
+﻿@using MyFirstASP.NET.Data.Models
+@model CarViewModel
+
+    <div class="row mt-5 mb-2">
+        @{
+
+        <div class="col-lg-4">
+            <img class="img-thumbnail" src="@Model.Car.Img" alt="@Model.Car.Name" />
+            <h2>Модель: @Model.Car.Name</h2>
+            <h3>@Model.Car.ShortDesc</h3>
+            <p>Цена: @Model.Car.Price.ToString("c")</p>
+        </div>
+
+        }
+    </div>

@@ -147,5 +147,6 @@ D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netc
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.dll
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.pdb
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
-D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.csprojAssemblyReference.cache
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.MvcApplicationPartsAssemblyInfo.cache
+D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Cars\About.cshtml.g.cs
+D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Cars\Favourite.cshtml.g.cs

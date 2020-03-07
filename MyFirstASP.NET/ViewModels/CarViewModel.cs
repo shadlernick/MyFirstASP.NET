@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace MyFirstASP.NET.ViewModels
 {
-    public class HomeViewModel
+    public class CarViewModel
     {
-        public IEnumerable<Car> Cars { get; set; }
+        public Car Car { get; set; }
     }
 }
