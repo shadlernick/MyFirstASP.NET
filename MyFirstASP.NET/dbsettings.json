@@ -1,5 +1,8 @@
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=CarShop;Trusted_Connection=True;MultipleActiveResultSets=true"
+    "DefaultConnection": "workstation id=CarShop.mssql.somee.com;packet size=4096;user id=PROTEINUM_SQLLogin_1;pwd=jy3d3qjywz;data source=CarShop.mssql.somee.com;persist security info=False;initial catalog=CarShop" 
+    //"Server=DESKTOP-PCP6MUC;Database=CarShop"
+
+    //"Server=(localdb)\\MSSQLLocalDB;Database=CarShop;Trusted_Connection=True;MultipleActiveResultSets=true"
   }
 }

@@ -20,7 +20,7 @@ namespace MyFirstASP.NET
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseStartup<Startup>();
+                    webBuilder.UseStartup<Startup>().UseSetting("detailedErrors", "true");
                 });
     }
 }

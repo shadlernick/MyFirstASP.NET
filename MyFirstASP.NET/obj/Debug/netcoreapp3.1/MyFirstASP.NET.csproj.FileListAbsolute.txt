@@ -150,3 +150,4 @@ D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\bin\Debug\netc
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.MvcApplicationPartsAssemblyInfo.cache
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Cars\About.cshtml.g.cs
 D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Cars\Favourite.cshtml.g.cs
+D:\Досуг\Мои проекты\MyFirstASP.NET\MyFirstASP.NET\obj\Debug\netcoreapp3.1\MyFirstASP.NET.csprojAssemblyReference.cache
